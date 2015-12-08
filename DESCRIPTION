@@ -1,0 +1,20 @@
+Package: ars
+Type: Package
+Title: An R Implementation Of The Adaptive Rejection Sampling (ARS) Algorithm
+Version: 1.0
+Author: Authors@R: c(
+    person("Jonathan", "Larson", email = "shamindra@berkeley.edu", role = "aut"),
+    person("Chenzhi", "Li", email = "lichenzhi@berkeley.edu", role = "aut"),
+    person("Courtney", "Schiffman", email = "courtneys@berkeley.edu", role = "aut"),
+    person("Shamindra", "Shrotriya", email = "shamindra@berkeley.edu", role = "aut"))
+LazyData: true
+URL: https://github.com/shamindras/ars-stat243
+Imports: 
+    stringr,
+    ggplot2
+Suggests: 
+    knitr,
+    devtools
+Description: An R Implementation Of The Adaptive Rejection Sampling (ARS) Algorithm
+    This is going to be great!
+License: GPL-2

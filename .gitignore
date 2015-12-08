@@ -11,3 +11,7 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# The default file created by package skeleton
+# This should be deleted when distributing the package
+Read-and-delete-me
