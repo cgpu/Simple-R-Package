@@ -8,6 +8,7 @@
 #' add(2, 3)
 #' add(0.5, 3.5)
 #' add(-0.5, -0.8)
+#' add(-6, -12)
 #' @export
 add <- function(x, y) {
     return(x + y)
